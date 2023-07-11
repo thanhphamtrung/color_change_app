@@ -10,6 +10,8 @@ Color Change App is a Flutter application that allows users to change the backgr
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-![Color History](screenshots/color_history.png)
-![Random Color Palette](screenshots/random_palette.png)
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="screenshots/home_screen.png" alt="Home Screen" width="250">
+  <img src="screenshots/color_history.png" alt="Color History" width="250">
+  <img src="screenshots/random_palette.png" alt="Random Color Palette" width="250">
+</div>
