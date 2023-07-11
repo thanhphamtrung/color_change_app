@@ -1,16 +1,15 @@
-# color_change_app
+# Color Change App
 
-A new Flutter project.
+Color Change App is a Flutter application that allows users to change the background color with a tap and provides additional features like color history and random color palettes.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Tap anywhere on the screen to change the background color to a randomly generated color.
+- Maintain a color history of previously generated colors and allow users to revisit and select from them.
+- Randomly generate color palettes and enable users to select colors from the generated palettes.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Home Screen](screenshots/home_screen.png)
+![Color History](screenshots/color_history.png)
+![Random Color Palette](screenshots/random_palette.png)
